@@ -1,0 +1,10 @@
+Sample	DGE SilePath	Reads SilePath	Soup
+AB1	L:/Duncan/Pn3Pilot/ReRunDGEs/AB1_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AB1_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AB2	L:/Duncan/Pn3Pilot/ReRunDGEs/AB2_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AB2_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AB3	L:/Duncan/Pn3Pilot/ReRunDGEs/AB3_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AB3_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AB4	L:/Duncan/Pn3Pilot/ReRunDGEs/AB4_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AB4_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AC1	L:/Duncan/Pn3Pilot/ReRunDGEs/AC1_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AC1_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AC2	L:/Duncan/Pn3Pilot/ReRunDGEs/AC2_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AC2_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AC3	L:/Duncan/Pn3Pilot/ReRunDGEs/AC3_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AC3_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AC4	L:/Duncan/Pn3Pilot/ReRunDGEs/AC4_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AC4_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
+AC5	L:/Duncan/Pn3Pilot/ReRunDGEs/AC5_20230113_DGE.UMI.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/AC5_20230113_readsSummary.txt	L:/Duncan/Pn3Pilot/ReRunDGEs/S1_20230113_soup.txt
